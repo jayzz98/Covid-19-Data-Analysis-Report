@@ -2,41 +2,57 @@
 
 ![Screenshot (74)](https://github.com/user-attachments/assets/8e9edf14-42c3-4ffb-a710-d70fe7714148)
 
-COVID-19 Data Analysis Report 📊
-This Power BI dashboard presents a detailed analysis of COVID-19 statistics for India. It visually tracks key pandemic metrics including confirmed cases, recoveries, deaths, and active cases with interactive visuals and intuitive layout design.
 
-📌 Features
-✅ Total Confirmed Cases: 343,091
+🌍 COVID-19 Data Analysis Dashboard | Power BI Project
+A visually rich and interactive Power BI dashboard that provides a comprehensive snapshot of COVID-19 statistics for India, highlighting the impact of the pandemic through key metrics, dynamic visuals, and intuitive layout design.
 
-🩺 Recovered Cases: 180,320
+📌 Dashboard Overview
+This project showcases an analytical summary of the COVID-19 situation using Power BI, helping users quickly interpret critical information such as:
 
-⚰️ Death Count: 9,915
+🦠 Confirmed Cases: 343,091
 
-🟡 Active Cases: 152,856
+💪 Recovered: 180,320
 
-📈 Recovery Rate: 52.56%
+⚰️ Deaths: 9,915
 
-⚠️ Fatality Rate: 2.89%
+🚨 Active Cases: 152,856
 
-📊 Visual Elements
-KPI Cards: Quick glance stats for confirmed, recovered, deaths, and active cases.
+✅ Recovery Rate: 52.56%
 
-Stacked Bar Chart: Visual comparison of all case types.
+❗ Fatality Rate: 2.89%
 
-Map Visualization: Highlights India's location and corresponding data.
+🖼️ Dashboard Highlights
+Interactive KPI Tiles: Clearly display key statistics at a glance.
 
-Interactive Filters: Country-level slicer for scalable analysis (currently focused on India).
+Stacked Bar Chart: Compare confirmed, recovered, death, and active cases visually.
 
-🛠️ Tools Used
-Microsoft Power BI
+Geo-Map Visualization: Geographical pinpoint of the affected region (India).
 
-Data Visualization Techniques
+Responsive Filter (Slicer): Easily scalable for global comparison (currently focused on India).
 
-Basic DAX for calculated metrics (e.g., Recovery and Fatality rates)
+⚙️ Tools & Technologies
+Power BI Desktop
 
-📍 Future Improvements
-Add time-series data to visualize trends over time
+DAX for calculated metrics
 
-Include multiple countries for comparative analysis
+Custom Visuals for user-friendly presentation
 
-Integrate live data sources for real-time updates
+Map and Bar Chart Visuals for geographic and categorical insights
+
+🚀 Future Scope
+🌐 Multi-country analysis for global perspective
+
+📅 Time-series trends to monitor the pandemic's progression
+
+🔄 Live data integration for real-time updates
+
+📷 Screenshot Preview
+
+📁 Project Use Case
+Ideal for:
+
+Data analytics portfolio projects
+
+Health data visualization studies
+
+Power BI practice for dashboards and KPI design
