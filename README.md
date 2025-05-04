@@ -38,9 +38,6 @@ This project showcases an analytical summary of the COVID-19 situation using **P
 - 📅 Time-series trends to monitor the pandemic's progression
 - 🔄 Live data integration for real-time updates
 
-## 📷 Screenshot Preview
-
-![Dashboard Preview](./path-to-image/Screenshot%20(74).png)
 
 ## 📁 Project Use Case
 
@@ -49,7 +46,3 @@ Ideal for:
 - Health data visualization studies
 - Power BI practice for dashboards and KPI design
 
----
-
-⭐ **Feel free to fork, use, and customize this dashboard to suit your own analytics needs!**  
-📬 Have questions or feedback? Open an issue or drop a message!
